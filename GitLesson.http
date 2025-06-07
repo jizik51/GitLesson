@@ -1,0 +1,6 @@
+@GitLesson_HostAddress = http://localhost:5258
+
+GET {{GitLesson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
