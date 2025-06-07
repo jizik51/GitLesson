@@ -13,7 +13,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitLesson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafdf53d871ec3cd6aec91c90039621b1eff7c1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed61328ecd3050c0869cee631b0ac63c443a3cc6")]
+[assembly: System.Reflection.AssemblyProductAttribute("GitLesson")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GitLesson")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
-
+// Создано классом WriteCodeFragment MSBuild.
 
