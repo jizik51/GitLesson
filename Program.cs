@@ -7,7 +7,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Я ЕБАЛ РЕКРУТЕРОВ
+// Ладно я шучу, СЛАДЕНЬКИЕ, ВКУСНИНЬКИЕ, НЕЖНЕНЬКИЕ, позавите меня на интрьвью 
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
